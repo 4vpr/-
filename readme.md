@@ -68,7 +68,6 @@ elif card_id == "Draw2":
 
 
 **해결**
-
 카드 사용(Cast)을 인터페이스(Effect)로 추상화 한다.  
 
 -   **CastEffect 인터페이스**: `cast(caster, target, game_state)` 같은 함수를 정의.
